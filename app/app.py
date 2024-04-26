@@ -23,7 +23,8 @@ def image_to_base64(image):
 #st.title("Smart Proposal Assistant for RFP Response and Offer Workflow")
 
 # Display logo and branding
-image_path = os.path.join('assets', 'jack.jpeg')
+assets_dir = os.path.join(current_dir, 'assets')  # Ensure this directory points correctly
+image_path = os.path.join(assets_dir, 'jack.jpeg')
 image = Image.open(image_path)
 image_base64 = image_to_base64(image)
 st.markdown(f"""
