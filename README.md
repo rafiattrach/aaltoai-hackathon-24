@@ -1,4 +1,4 @@
-# aaltoai-hackathon-24
+# SPARROW - Smart Proposal Assistant for RFP Response and Offer Workflow
 # Project Documentation
 
 ## Quick Overview
