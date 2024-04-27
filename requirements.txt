@@ -54,6 +54,7 @@ multidict==6.0.5
 mypy-extensions==1.0.0
 nest-asyncio==1.6.0
 numpy==1.26.4
+ollama
 openai==1.23.6
 orjson==3.10.1
 packaging==23.2
