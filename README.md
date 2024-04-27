@@ -39,6 +39,7 @@ Before running the project, you need to install all dependencies. To download th
 Additionally, to successfully run the web application as well as the scripts and notebooks that use the **OpenAI API** and the **Pinecone API**, you need to paste your own API key from OpenAI and from Pinecone into the `.env` file:
 
 `OPENAI_API_KEY=<YOUR_OPENAI_KEY>`
+
 `PINECONE_API_KEY=<YOUR_PINECONE_API_KEY>`
 
 #### Web Application (Streamlit)
