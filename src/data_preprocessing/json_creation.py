@@ -17,7 +17,8 @@ def create_json_from_text(text):
         "1. Email Address: Look for a string containing an 'at' symbol (@), and ensure it is in a standard email format. \n"
         "2. Due Date: Search for a date that specifies a deadline and format it appropriately. \n"
         "3. Specific Requirements: Summarize any detailed requirements related to the request mentioned in the text. \n"
-        "Structure the output as a JSON object with three key-value pairs: 'email', 'dueDate', and 'reqs'."
+        "Structure the output as a JSON object with three key-value pairs: 'email', 'dueDate', and 'reqs'. Don't use subkeys or nested structures. \n"
+        "If any of the elements are not present in the text, use an empty string as the value. \n"
     )
 
     try:
