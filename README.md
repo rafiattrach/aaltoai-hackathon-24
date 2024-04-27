@@ -7,6 +7,10 @@ Utilizing the latest 247-page STIHL Catalogue 2024, we processed product descrip
 Synthetically generated RFPs by GPT-4 were formatted into multiple file types, with key details extracted into JSON and similarly embedded. 
 A RAG pipeline facilitated the retrieval of top product matches, leveraging GPT-4 for final selections, which were then composed into client emails using Microsoft's PHI3.
 
+## Demo
+
+https://github.com/rafiattrach/aaltoai-hackathon-24/assets/64313536/7e98ff79-2eec-476f-990f-65e7a48fcbbc
+
 ## Installation & Setup
 
 #### Create Virtual Environment
