@@ -11,6 +11,10 @@ A RAG pipeline facilitated the retrieval of top product matches, leveraging GPT-
 
 https://github.com/rafiattrach/aaltoai-hackathon-24/assets/64313536/7e98ff79-2eec-476f-990f-65e7a48fcbbc
 
+## Pipeline Overview
+<img width="947" alt="pipeline" src="https://github.com/rafiattrach/aaltoai-hackathon-24/assets/73880635/3f830d6a-c056-4f0e-96eb-af32be21fd49">
+
+
 ## Installation & Setup
 
 #### Create Virtual Environment
